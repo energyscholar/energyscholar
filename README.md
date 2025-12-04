@@ -34,16 +34,14 @@ An experimental high-performance fluid dynamics toolkit using novel **Quantized 
 ---
 
 ## 📊 GitHub Stats
-![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=energyscholar&show_icons=true)
+
+![Commits this year](https://img.shields.io/github/commit-activity/y/energyscholar/traveller-combat-vtt)
+![Repo size](https://img.shields.io/github/repo-size/energyscholar/traveller-combat-vtt)
+![Stars](https://img.shields.io/github/stars/energyscholar/traveller-combat-vtt)
+![Forks](https://img.shields.io/github/forks/energyscholar/traveller-combat-vtt)
 
 ## 🔠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=energyscholar&layout=compact)
-
-## 🃏 Profile Summary Cards
-![summary](https://raw.githubusercontent.com/energyscholar/profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)
-![repos](https://raw.githubusercontent.com/energyscholar/profile-summary-cards/master/profile-summary-card-output/github/1-repos-per-language.svg)
-![most](https://raw.githubusercontent.com/energyscholar/profile-summary-cards/master/profile-summary-card-output/github/2-most-commit-language.svg)
-![stats](https://raw.githubusercontent.com/energyscholar/profile-summary-cards/master/profile-summary-card-output/github/3-stats.svg)
+![Languages](https://img.shields.io/github/languages/top/energyscholar/traveller-combat-vtt?color=blue)
 
 ---
 
