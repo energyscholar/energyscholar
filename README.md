@@ -15,7 +15,7 @@ Current focus: a full-featured **Traveller RPG Virtual Tabletop (VTT)** with rea
 ---
 
 ### 🔧 Traveller Combat VTT (Mongoose 2e)
-A lightweight, fast, multiplayer VTT engine designed specifically for Traveller’s tactical combat.  
+A lightweight, fast, multiplayer VTT engine designed specifically for the Traveller RPG.  
 Emphasis on:
 - real-time sync
 - deterministic resolution
@@ -27,7 +27,7 @@ Emphasis on:
 ---
 
 ### 🌊 QRR Marine Physics Engine
-An experimental high-performance fluid dynamics toolkit using novel **Quantized Relational Relativity** mathematics.
+An experimental high-performance fluid dynamics toolkit using novel **Metron Dynamics** mathematics.
 
 👉 Repo: `qrr-marine-python`  
 👉 Repo: `qrr-marine-omniverse`
