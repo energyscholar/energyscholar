@@ -34,10 +34,16 @@ An experimental high-performance fluid dynamics toolkit using novel **Quantized 
 ---
 
 ## 📊 GitHub Stats
+![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=energyscholar&show_icons=true)
 
-![](https://raw.githubusercontent.com/energyscholar/energyscholar/main/profile-summary-card-output/default/3-stats.svg)
-![](https://raw.githubusercontent.com/energyscholar/energyscholar/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/energyscholar/energyscholar/main/profile-summary-card-output/default/2-most-commit-language.svg)
+## 🔠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=energyscholar&layout=compact)
+
+## 🃏 Profile Summary Cards
+![summary](https://raw.githubusercontent.com/energyscholar/profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)
+![repos](https://raw.githubusercontent.com/energyscholar/profile-summary-cards/master/profile-summary-card-output/github/1-repos-per-language.svg)
+![most](https://raw.githubusercontent.com/energyscholar/profile-summary-cards/master/profile-summary-card-output/github/2-most-commit-language.svg)
+![stats](https://raw.githubusercontent.com/energyscholar/profile-summary-cards/master/profile-summary-card-output/github/3-stats.svg)
 
 ---
 
