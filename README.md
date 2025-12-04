@@ -8,7 +8,9 @@ Current focus: a full-featured **Traveller RPG Virtual Tabletop (VTT)** with rea
 
 ## 🚀 Current Projects
 
-### Scientific work in Condensed Matter Physics - Statistical Mechanics ###
+### 🥼 Scientific work in Condensed Matter Physics - Statistical Mechanics ###
+
+---
 
 ### 🔧 Traveller Combat VTT (Mongoose 2e)
 A lightweight, fast, multiplayer VTT engine designed specifically for Traveller’s tactical combat.  
