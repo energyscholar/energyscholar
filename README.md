@@ -8,6 +8,8 @@ Current focus: a full-featured **Traveller RPG Virtual Tabletop (VTT)** with rea
 
 ## 🚀 Current Projects
 
+---
+
 ### 🥼 Scientific work in Condensed Matter Physics - Statistical Mechanics ###
 
 ---
