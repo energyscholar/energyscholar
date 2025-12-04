@@ -35,9 +35,9 @@ An experimental high-performance fluid dynamics toolkit using novel **Quantized 
 
 ## 📊 GitHub Stats
 
-![Bruce's GitHub stats](https://github-readme-stats-gilt-five.vercel.app/api?username=energyscholar&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats-gilt-five.vercel.app/api/top-langs/?username=energyscholar&layout=compact)
+![](https://raw.githubusercontent.com/energyscholar/energyscholar/main/profile-summary-card-output/default/3-stats.svg)
+![](https://raw.githubusercontent.com/energyscholar/energyscholar/main/profile-summary-card-output/default/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/energyscholar/energyscholar/main/profile-summary-card-output/default/2-most-commit-language.svg)
 
 ---
 
