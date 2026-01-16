@@ -41,7 +41,7 @@ An experimental high-performance fluid dynamics toolkit using novel **Quantized 
 ![Forks](https://img.shields.io/github/forks/energyscholar/traveller-combat-vtt)
 
 ## 🔠 Top Languages
-![Languages](https://img.shields.io/github/languages/top/energyscholar/traveller-combat-vtt?color=blue)
+![Languages](https://img.shields.io/github/languages/top/energyscholar/traveller-starship-operations-vtt?color=blue)
 
 ---
 
