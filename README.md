@@ -22,7 +22,7 @@ Emphasis on:
 - clean UI for GMs and players
 - rule-accurate system implementation
 
-👉 Repo: `traveller-combat-vtt`
+👉 Repo: `traveller-starship-operations-vtt`
 
 ---
 
