@@ -14,7 +14,7 @@ Current focus: a full-featured **Traveller RPG Virtual Tabletop (VTT)** with rea
 
 ---
 
-### 🔧 Traveller Combat VTT (Mongoose 2e)
+### 🔧 Traveller Starship Operations VTT (Mongoose 2e)
 A lightweight, fast, multiplayer VTT engine designed specifically for the Traveller RPG.  
 Emphasis on:
 - real-time sync
