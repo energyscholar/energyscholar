@@ -10,6 +10,10 @@ Current focus: a full-featured **Traveller RPG Virtual Tabletop (VTT)** with rea
 
 ---
 
+### 🥼 Metron Dynamics: Stability through structure, not control. A minimal relational calculus where invariants emerge from composition, not correction. ###
+
+---
+
 ### 🥼 Scientific work in Condensed Matter Physics - Statistical Mechanics ###
 
 ---
