@@ -27,7 +27,7 @@ Emphasis on:
 ---
 
 ### 🌊 QRR Marine Physics Engine
-An experimental high-performance fluid dynamics toolkit using novel **Quantized Relational Relativity** mathematics.
+An experimental high-performance fluid dynamics toolkit using novel **Metron Dynamics** mathematics & methodology.
 
 👉 Repo: [qrr-marine-python](https://github.com/energyscholar/qrr-marine-python)  
 
