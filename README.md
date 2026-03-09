@@ -54,7 +54,7 @@ High-performance fluid dynamics toolkit using Metron Dynamics mathematics.
 ---
 
 ## 🎲 Side Projects
-Building tools for tabletop RPGs — real-time multiplayer VTTs, procedural generation, rule engines. Because sometimes you need to simulate starship combat at 60fps.
+Building tools for tabletop RPGs — real-time multiplayer VTTs, procedural generation, rule engines.
 
 ---
 
