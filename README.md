@@ -1,5 +1,5 @@
 # Hi, I'm Bruce Stephenson 👋
-Scientific computing researcher • CTO • building high-performance mathematical systems
+Scientific computing researcher • computational physics • critical transitions
 
 I work at the intersection of **early warning signals**, **critical transitions**, and **computational physics**.
 Current focus: validating novel early warning signal methods for detecting critical phenomena in complex systems.
@@ -10,7 +10,7 @@ Current focus: validating novel early warning signal methods for detecting criti
 
 ### 🔬 Critical Transitions & Early Warning Signals
 Developing and validating computational methods for detecting critical transitions in complex systems. Recent work:
-- **ABCRE Validation Suite**: 10 modules, 44 tests validating a novel nonlinear bandpass filter on experimental thermoacoustic data
+- **Validation suite**: 10 modules, 44 tests validating a novel nonlinear bandpass filter on experimental thermoacoustic data
 - **ewstools contribution**: Implementing DFA (detrended fluctuation analysis) for the standard Python EWS toolkit
 - **arXiv paper**: "Convergent Discovery of Critical Phenomena Mathematics Across Disciplines" ([arXiv:2601.22389](https://arxiv.org/abs/2601.22389))
 
@@ -18,30 +18,16 @@ Applications: climate tipping points, ecosystem transitions, financial crises, e
 
 ---
 
-### 🥼 Metron Dynamics
-A minimal relational calculus for computational physics. Stability through structure, not control. Invariants emerge from composition, not correction.
-
----
-
-### 🌊 QRR Marine Physics Engine
-High-performance fluid dynamics toolkit using Metron Dynamics mathematics.
-
-👉 Repo: [qrr-marine-python](https://github.com/energyscholar/qrr-marine-python)
-
----
-
 ## 🧰 Tech Stack
 - **Scientific computing**: Python (NumPy, SciPy, matplotlib), Rust
 - **Methods**: FFT/spectral analysis, Monte Carlo, power-law fitting, time series analysis, statistical hypothesis testing
 - **Infrastructure**: TypeScript/Node, WebSockets, real-time state sync, AWS, Docker
-- **Domains**: Early warning signals, statistical physics, dynamical systems, fluid dynamics
+- **Domains**: Early warning signals, statistical physics, dynamical systems
 
 ---
 
 ## 💼 Professional
-- **CTO**, Relational Relativity Inc. (2025–Present)
 - 25+ years software engineering and technical leadership
-- Six-time CTO (Symantec, FiServ, multiple startups)
 - Former CISSP (#319668)
 - Physics degree, Reed College (1991)
 
@@ -49,6 +35,7 @@ High-performance fluid dynamics toolkit using Metron Dynamics mathematics.
 
 ## 📫 Contact
 **Email:** energyscholar@gmail.com
+**ORCID:** [0009-0005-6842-6686](https://orcid.org/0009-0005-6842-6686)
 **LinkedIn:** [linkedin.com/in/stephensonbruce](https://linkedin.com/in/stephensonbruce)
 
 ---
@@ -58,4 +45,4 @@ Building tools for tabletop RPGs — real-time multiplayer VTTs, procedural gene
 
 ---
 
-*(Updated March 2026)*
+*(Updated November 2026)*
